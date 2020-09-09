@@ -610,12 +610,12 @@ div#tabs-container {
   padding-bottom: 3px;
 }
 
-.toolbar-addressbar .button-toolbar>button:hover {
+.UrlBar.toolbar .button-toolbar>button:hover {
   background-color: #100e15 !important;
   background-image: none !important;
 }
 
-.toolbar-addressbar .button-toolbar>button:active, .toolbar-mainbar>.button-toolbar>button.button-pressed {
+.UrlBar.toolbar .button-toolbar>button:active, .toolbar-mainbar>.button-toolbar>button.button-pressed {
   background-color: #0e0c12 !important;
   background-image: none !important;
 }
