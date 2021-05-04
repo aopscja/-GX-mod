@@ -605,7 +605,7 @@ div#tabs-container {
 
 #browser.tabs-top.address-top div.UrlBar.toolbar.toolbar-mainbar.toolbar-large {
   margin-left: 40px;
-  border-left: 1px solid var(--colorHighlightBg) !important;
+  border-left: 1px solid var(--colorAccentBg) !important;
 }
 
 div.UrlBar.toolbar.toolbar-mainbar.toolbar-large {
