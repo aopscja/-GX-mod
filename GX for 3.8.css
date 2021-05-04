@@ -1109,7 +1109,7 @@ button.button-on .bookmark-animated-fill, button.button-on .bookmark-outline {
     width           : 12px;
     margin-top      : -16px;
     height          : 1px;
-    background-color: var(--colorHighlightBg);
+    background-color: var(--colorAccentBg);
     float           : left;
     margin-left     : 11px;
 }
