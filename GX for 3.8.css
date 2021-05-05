@@ -1289,7 +1289,7 @@ div#webview-container {
   d: path("M20,20.4H6v-1H20Z");
 }
 
-.small-icon-outline{
+.panelbtn.uifocusstop.downloads.active .small-icon-outline{
   d: path("M18.4,10.551l-4.742,4.606a.1.1,0,0,1-.162-.068V5.6h-1v9.486a.1.1,0,0,1-.162.068L7.6,10.551l-.7.718,6.034,5.861a.1.1,0,0,0,.133,0L19.1,11.268Z");
 }
 
@@ -1297,7 +1297,7 @@ div#webview-container {
   d: none;
 }
 
-.panelbtn.uifocusstop.downloads svg, .panelbtn.notes svg, .panelbtn.tabs svg, button[data-id="notes"] svg {padding-top: 2px !important; width: 26px !important; height: auto !important;}
+.panelbtn.uifocusstop.downloads svg, .panelbtn.downloads svg, .panelbtn.notes svg, .panelbtn.tabs svg, button[data-id="notes"] svg {padding-top: 2px !important; width: 26px !important; height: auto !important;}
 button[data-id="notes"] svg {
 	width: 22px !important;
 }
